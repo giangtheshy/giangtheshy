@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+Frontend
+HTML5 CSS3 JavaScript Nodejs React Sass Adobe Photoshop
+
 <!--
 **giangtheshy/giangtheshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
