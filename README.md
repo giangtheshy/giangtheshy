@@ -1,5 +1,5 @@
 ### Hi there 👋
-🇻🇳
+
 Welcome my github profile 💻,
 I am a student at University of Information Technology 🏣.
 Currently I am a front end developer with the skills below 📖.
