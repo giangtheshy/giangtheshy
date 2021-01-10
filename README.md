@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome my github profile 💻,\n
-I am a student at University of Information Technology 🏣.\n
-Currently I am a front end developer with the skills below 📖.\n
+Welcome my github profile 💻,<br/>
+I am a student at University of Information Technology 🏣.<br/>
+Currently I am a front end developer with the skills below 📖.<br/>
 
 
 ### Frontend 👚
