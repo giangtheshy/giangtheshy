@@ -10,7 +10,7 @@ Currently I am a front end developer with the skills below 📖.<br/>
 
 ### Backend 👹
 
-#### 🍏Nodejs , 🍎Express , 🍃MongoDB
+#### 🍏Nodejs , 🍎Express , 🍃MongoDB ,🍃Spring Boot,🐬MySQL 
 
 ##### If you want to contact me please send email to 📩: truonggiang.ntg2000@gmail.com
 <!--
