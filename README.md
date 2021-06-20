@@ -13,6 +13,10 @@ Currently I am a front end developer with the skills below 📖.<br/>
 
 #### 🍏Nodejs , 🍎Express , 🍃MongoDB ,🍃Spring Boot,🐬MySQL 
 
+### Tech 💻
+
+#### Webpack , Docker , VPS , AWS , Nginx 
+
 ##### If you want to contact me please send email to 📩: truonggiang.ntg2000@gmail.com
 <!--
 **giangtheshy/giangtheshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
