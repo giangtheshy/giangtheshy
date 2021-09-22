@@ -2,7 +2,7 @@
 
 Welcome to my github profile 💻,<br/>
 I am a student at University of Information Technology 🏣.<br/>
-Currently I am a front end developer with the skills below 📖.<br/>
+Currently I am a Software Engineer with the skills below 📖.<br/>
 
 
 
