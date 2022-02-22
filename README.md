@@ -17,6 +17,8 @@ Currently I am a Software Engineer with the skills below 📖.<br/>
 
 #### Webpack , Docker , VPS , AWS , Nginx 
 
+##### My CV : https://i.topcv.vn/nguyentruonggiang?ref=4257299 
+
 ##### If you want to contact me please send email to 📩: truonggiang.ntg2000@gmail.com
 <!--
 **giangtheshy/giangtheshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
